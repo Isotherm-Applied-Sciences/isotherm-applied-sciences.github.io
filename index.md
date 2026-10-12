@@ -31,6 +31,14 @@ Our engineering philosophy emphasizes clarity, auditability, and deterministic b
 A free, open‑source receipt verification gateway for collectors and institutions.  
 Provides provenance assurance, authenticity checks, and continuity records.
 
+Documentation:
+- [Overview](./collectorcheck/index.md)
+- [Architecture](./collectorcheck/architecture.md)
+- [API](./collectorcheck/api.md)
+- [Continuity Model](./collectorcheck/continuity.md)
+- [Receipt Format](./collectorcheck/receipts.md)
+- [Launch Page](./collectorcheck/launch.md)
+
 Repository:  
 https://github.com/Isotherm-Applied-Sciences/collectorcheck
 
