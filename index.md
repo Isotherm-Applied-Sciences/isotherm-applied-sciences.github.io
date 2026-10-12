@@ -54,6 +54,27 @@ A deterministic gradient‑based computation and transformation framework.
 
 ---
 
+## Continuity Stack
+
+The Isotherm continuity stack is a deterministic architecture designed to unify identity, provenance, verification, and gradient-based computation.  
+It consists of four core components:
+
+### CollectorCheck
+Receipt verification gateway providing provenance assurance and continuity records.
+
+### Dadtabus
+Universal identity continuity substrate enabling deterministic identity workflows.
+
+### HydroPass
+Secure continuity and access tool for identity-safe credential handling.
+
+### Gradient Engine
+Deterministic gradient-based computation and transformation framework.
+
+Together, these systems form a transparent, minimal-systems foundation for long-term trust across digital and physical ecosystems.
+
+---
+
 ## About the Company
 
 Isotherm Applied Sciences Inc. is a federally incorporated Canadian engineering studio.  
