@@ -4,3 +4,5 @@ markdown: kramdown
 theme: minima
 exclude:
   - README.md
+include:
+  - assets/css/style.css
