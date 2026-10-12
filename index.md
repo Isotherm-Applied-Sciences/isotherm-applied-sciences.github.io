@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/css/style.css">
 ---
 title: Isotherm Applied Sciences Inc.
 description: Deterministic systems for continuity, provenance, and trust.
