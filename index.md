@@ -76,3 +76,4 @@ All trademarks and project names belong to their respective owners.
 ---
 
 © 2026 Isotherm Applied Sciences Inc.
+
