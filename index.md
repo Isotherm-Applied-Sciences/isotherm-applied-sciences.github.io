@@ -84,6 +84,24 @@ All public software is released under the MIT License.
 
 ---
 
+## Brand Identity
+
+Isotherm Applied Sciences uses a scientific, gradient‑driven identity rooted in deterministic behavior and transparent logic.  
+Our branding emphasizes clarity, minimal‑systems design, and continuity across digital and physical ecosystems.
+
+### Design Principles
+- Deterministic behavior  
+- Scientific clarity  
+- Gradient‑based conceptual structure  
+- Minimal‑systems engineering  
+- Long‑term provenance integrity  
+
+### Visual Identity
+The Isotherm identity uses clean geometry, scientific gradients, and audit‑friendly layouts.  
+A full visual identity package will be published as the Gradient Engine design matures.
+
+---
+
 ## Contact
 
 **Isotherm Applied Sciences Inc.**  
