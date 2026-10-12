@@ -25,6 +25,8 @@ Our engineering philosophy emphasizes clarity, auditability, and deterministic b
 
 ## Active Projects
 
+[View all projects](./projects/index.md)
+
 ### **CollectorCheck**
 A free, open‑source receipt verification gateway for collectors and institutions.  
 Provides provenance assurance, authenticity checks, and continuity records.
