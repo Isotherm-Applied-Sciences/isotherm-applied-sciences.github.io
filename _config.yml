@@ -1,0 +1,6 @@
+title: "Isotherm Applied Sciences Inc."
+description: "Deterministic systems for continuity, provenance, and trust."
+markdown: kramdown
+theme: minima
+exclude:
+  - README.md
